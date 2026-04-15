@@ -1,5 +1,5 @@
 ﻿ContactManager contact = new ContactManager();
-int opcion = int.Parse(Console.ReadLine()!);
+int opcion;
 do
 {
         Console.WriteLine(@" 
@@ -7,9 +7,10 @@ do
     [1] AGREGAR CONTACTO
     [2] BUSCAR CONTACTO
     [3] ELIMINAR CONTACTO
-    [4] VOLVER
-    [5] SALIR
+    [4] SALIR
+    
     ");
+     opcion = int.Parse(Console.ReadLine()!);
     switch (opcion)
     {
         case 1:
@@ -30,7 +31,7 @@ do
 
         case 3:
 
-            Console.WriteLine("Introduce un nombre para buscar");
+            Console.WriteLine("Introduce un nombre para eliminar");
             string elinombre = Console.ReadLine()!;
             contact.RemoveContact(elinombre);
             break;
