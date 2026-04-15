@@ -1,0 +1,14 @@
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\bin\Debug\net8.0\ContactManager.exe
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\bin\Debug\net8.0\ContactManager.deps.json
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\bin\Debug\net8.0\ContactManager.runtimeconfig.json
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\bin\Debug\net8.0\ContactManager.dll
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\bin\Debug\net8.0\ContactManager.pdb
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.AssemblyInfoInputs.cache
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.AssemblyInfo.cs
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.dll
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\refint\ContactManager.dll
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.pdb
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.genruntimeconfig.cache
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ref\ContactManager.dll
