@@ -12,3 +12,4 @@ C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debu
 C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.pdb
 C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.genruntimeconfig.cache
 C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ref\ContactManager.dll
+C:\Users\Pilar Medina\Desktop\DibujoCanva\ContactManager\ContactManager\obj\Debug\net8.0\ContactManager.sourcelink.json
